@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chationicfb-f8b6d": {
+      "hosting": {
+        "app": [
+          "chationicfb-f8b6d"
+        ]
+      }
+    }
+  }
+}
